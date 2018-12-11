@@ -25,7 +25,7 @@
   "homepage": "https://github.com/douzi8/base64-img",
   "dependencies": {
     "ajax-request": "^1.2.0",
-    "file-system": "^2.1.0"
+    "browserify-fs": "^1.0.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

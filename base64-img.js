@@ -1,4 +1,4 @@
-var fs = require('file-system');
+var fs = require('browserify-fs');
 var path = require('path');
 var request = require('ajax-request');
 
